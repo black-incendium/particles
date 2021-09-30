@@ -1,5 +1,5 @@
 # particles simulator
-Visual project, that simulates particles with different behaviour. Implemented in pure javascript, html, css. Generate visuals on canvas with 2d context.
+Visual project, based on particles simulation. Implemented in pure javascript, html, css. Generate visuals on canvas with 2d context.
 
 ## live version
 Live version of project is available on this page in projects section:\
